@@ -1,10 +1,16 @@
 [
   {
     "id": 1,
-    "name": "Marchelle"
+    "name": "Marchelle",
+    "email": "mailward0@hibu.com",
+    "address": "57 Bowman Drive"
   },
   {
     "id": 2,
-    "name": "Modesty"
+    "name": "Modesty",
+    "email": "mviveash1@sohu.com",
+    "address": "2171 Welch Avenue"
   }
 ]
+
+
